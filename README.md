@@ -1,30 +1,29 @@
-# Welcome to My GitHub Profile
+# 👋 Welcome to My GitHub Profile!
 
-## 👋 About Me
-Hello! I am Rasmilan, a developer currently studying at **Unicomtic** with a passion for building web applications and software solutions. I am constantly learning and improving my skills to become an accomplished full-stack developer.
+## 🌱 About Me
+Hello! I’m **Rasmilan**, a passionate **Full-Stack Developer** with a strong background in both **frontend** and **backend** technologies. Currently pursuing my **Diploma in Software Development** at **Unicom Tic**, I’m committed to building high-performance, scalable, and user-friendly applications.
+
+As a developer, I enjoy solving real-world problems through innovative software solutions. My journey has focused on creating dynamic web applications, and I strive to stay ahead of industry trends to incorporate the best tools and practices in my work.
 
 ## 🔧 Skills & Technologies
-- **Frontend Development**:
-  - **HTML5**, **CSS3**, **Bootstrap**: For creating responsive and modern user interfaces.
-  - **Angular**, **TypeScript**, **JavaScript**: For developing dynamic, single-page applications.
 
-- **Backend Development**:
-  - **C#**, **.NET Core**: For building scalable and efficient server-side applications.
+### **Frontend Development:**
+- **HTML5, CSS3, Bootstrap**: Building responsive, mobile-friendly user interfaces.
+- **Angular, TypeScript, JavaScript**: Creating dynamic single-page applications with a focus on performance and user experience.
 
-- **Database Management**:
-  - **SQL**: Proficient in designing, managing, and querying databases.
+### **Backend Development:**
+- **C# & .NET Core**: Crafting efficient, scalable, and secure server-side applications, RESTful APIs, and integrating third-party services.
 
-## 🛠 Tools & Experience
-- **Development Environments**: Visual Studio, Visual Studio Code
-- **Version Control**: Git and GitHub for collaboration and code management
-- **API Testing**: Postman
-- **Database Tools**: SQL Server Management Studio (SSMS)
+### **Database Management:**
+- **Microsoft SQL Server**: Designing optimized, secure database schemas and writing efficient queries using **ADO.NET**.
 
-## 📚 Learning & Growth
-As a student at **Unicomtic**, I am continuously expanding my knowledge and staying up-to-date with the latest development trends and best practices. I am passionate about working on both front-end and back-end technologies and am driven to create meaningful and impactful applications.
+### **Tools & Practices:**
+- **Git & GitHub**: Managing version control and collaborating on projects.
+- **Microsoft Azure**: Deploying applications on the cloud for greater scalability.
+- **API Testing**: Using **Postman** for efficient API development and testing.
 
-## 📈 GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasmilan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)](https://github.com/rasmilan)
+## 📚 Learning & Growth  
+At **Unicomtic**, I’m constantly improving my skill set and exploring the latest in **full-stack development**. From **Angular** to **.NET Core**, I enjoy tackling both the front-end and back-end challenges to build solutions that users love.
 
-
-Feel free to explore my repositories, contribute to my projects, or reach out for potential collaborations!
+## 📞 Let’s Connect!  
+Feel free to explore my repositories, contribute to my projects, or reach out for potential collaborations or job opportunities. I'm always open to learning from others and sharing knowledge.
